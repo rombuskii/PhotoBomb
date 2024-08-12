@@ -63,3 +63,5 @@ horizontal-flip john flipped
 vertical-flip flipped superflip
 save res/superflipped.ppm superflip
 quit
+
+---
