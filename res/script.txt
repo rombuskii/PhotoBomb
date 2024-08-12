@@ -1,0 +1,3 @@
+load images/testing.ppm tester 
+mosaic 5 tester tester-mosaic
+save ./res/mosaic_script.ppm tester-mosaic
